@@ -1,0 +1,7 @@
+{
+  "name": "renovate-repro-ssh-signing-merge",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
